@@ -5,3 +5,4 @@ For both secondary and primary schools.
 Working and building the best school management system 
 
 The system will improve management 
+The system to improve school management for both primary and secondary and tertiary institution.
