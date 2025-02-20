@@ -20,5 +20,5 @@ Prerequise for the system are
   - Linux unix
   - ubuntu server
 - client side
-- #server side
+ 
  
