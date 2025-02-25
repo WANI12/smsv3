@@ -19,6 +19,6 @@ Prerequise for the system are
   - Apache server
   - Linux unix
   - ubuntu server
-- client side
+ 
  
  
