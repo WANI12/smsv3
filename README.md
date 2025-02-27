@@ -17,8 +17,6 @@ Prerequise for the system are
 - Laravel
   System management
   - Apache server
-  - Linux unix
-  - ubuntu server
  
  
  
