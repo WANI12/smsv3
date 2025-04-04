@@ -15,8 +15,7 @@ Prerequise for the system are
 - HTML
 - CSS
 - Laravel
-  System management
-  - Apache server
+ 
  
  
  
