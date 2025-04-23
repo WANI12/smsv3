@@ -1,5 +1,5 @@
 # smsv3
-Sms Repository
+ 
 School Management system
  
 The system to improve school management for both primary and secondary and tertiary institution.
