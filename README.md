@@ -8,7 +8,7 @@ Prerequise for the system are
 - React js
 - HTML
 - CSS
- Codeigniter 
+ 
  
  
  
