@@ -5,7 +5,7 @@ Prerequise for the system are
 - PPHP as a backend
 - Tailwind css
 - Javascript
-- React js
+ 
 - HTML
 - CSS
  
