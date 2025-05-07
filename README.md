@@ -6,7 +6,7 @@ Prerequise for the system are
 - Javascript
 - HTML
 - CSS
-- Codeignitor framework.
+ 
  
  
  
