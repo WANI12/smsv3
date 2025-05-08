@@ -7,7 +7,3 @@ Prerequise for the system are
 - HTML
 - CSS
  
- 
- 
- 
- 
