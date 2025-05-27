@@ -4,4 +4,4 @@ The system works offline and online.
 Prerequise for the system are 
 - PHP
 - Javascript
-- HTML
+ 
