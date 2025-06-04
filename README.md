@@ -1,8 +1,9 @@
 # smsv3
-The system to improve school management for both primary and secondary and tertiary institution.
+The system is designed to improve school management for both primary and secondary, and tertiary institutions.
 The system works offline and online.
-Prerequise for the system are 
+Prerequisites for the system are 
 - PHP
 - CSS
 - HTML
 - JAVASCRIPT
+- Tailwind
