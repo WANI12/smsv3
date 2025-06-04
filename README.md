@@ -6,5 +6,3 @@ Prerequise for the system are
 - CSS
 - HTML
 - JAVASCRIPT
-- Laravel
-- Tailwind
