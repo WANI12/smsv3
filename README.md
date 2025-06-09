@@ -5,5 +5,4 @@ Prerequisites for the system are
 - PHP
 - CSS
 - HTML
-- JAVASCRIPT
-- Tailwind
+ 
