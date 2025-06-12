@@ -4,5 +4,4 @@ The system works offline and online.
 Prerequisites for the system are 
 - PHP
 - CSS
-- HTML
  
