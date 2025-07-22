@@ -7,4 +7,4 @@ Prerequisites for the system are
 - HTML
 
 - Tailwind
-- Laravel
+ 
