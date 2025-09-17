@@ -8,4 +8,5 @@ Prerequisites for the system are
 
 - Tailwind
 - Laravel
+For Schools and Universities
  
