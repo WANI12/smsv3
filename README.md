@@ -1,24 +1,20 @@
 # smsv3
-Sms Repository
-School Management system
-For both secondary and primary schools.
-Working and building the best school management system 
-
-The system will improve management 
-The system to improve school management for both primary and secondary and tertiary institution.
-The system works offline and online remote access is provided 
-Prerequise for the system are 
-- PPHP as a backend
-- Tailwind css
-- Javascript
-- React js
-- HTML
+The system is designed to improve school management for both primary, secondary, and tertiary institutions.
+The system works offline and online.
+Prerequisites for the system are 
+- PHP
 - CSS
+- HTML
+
+- Tailwind
 - Laravel
-  System management
-  - Apache server
-  - Linux unix
-  - ubuntu server
-- client side
+For Schools and Universities
+ Primary and Secondary School System for Learning
+For all that works.
+Building for all schools
+
+
  
- 
+
+
+Building mordern school school
