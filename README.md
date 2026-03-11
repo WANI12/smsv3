@@ -15,6 +15,4 @@ Building for all schools
 
 
  
-
-
-Building mordern school school
+ 
