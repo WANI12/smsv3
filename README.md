@@ -5,16 +5,9 @@ Prerequisites for the system are
 - PHP
 - CSS
 - HTML
-
 - Tailwind
 - Laravel
 For Schools and Universities
  Primary and Secondary School System for Learning
 For all that works.
-Building for all schools
-
-
  
-
-
-Building mordern school school
