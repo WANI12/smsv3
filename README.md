@@ -9,5 +9,4 @@ Prerequisites for the system are
 - Laravel
 For Schools and Universities
  Primary and Secondary School System for Learning
-For all that works.
  
