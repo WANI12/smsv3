@@ -5,9 +5,7 @@ Prerequisites for the system are
 - PHP
 - CSS
 - HTML
-- Tailwind
-- Laravel
-For Schools and Universities
+ 
   
 
 
